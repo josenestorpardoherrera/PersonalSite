@@ -26,8 +26,22 @@ math = false
 # image = "headers/locoledpres.jpg"
 # caption = "My caption :smile:"
 
+[[gallery_item]]
+album = "1"
+image = "Profile1.jpg"
+caption = "Fig 1"
+    
+[[gallery_item]]
+album = "1"
+image = "Profile5.jpg"
+caption = "Fig 2"
+
 +++
 
-Design and implementation of a system which varied the light intensity of LED arrays based on the sound’s frequency.
+The main objetive of this project was about the design and implementation of a electronic system which was be able to varie the light intensity of LED arrays based on the sound’s frequency.
 
 {{< youtube MovaylNHGE8>}}
+
+{{< gallery album="1" >}}
+
+Teammates: Pedro Nel Acero Brochero, Jose Libardo Navia Vela.

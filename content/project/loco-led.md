@@ -23,11 +23,11 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/locoledpres.jpg"
+# image = "headers/locoledpres.jpg"
 # caption = "My caption :smile:"
 
 +++
 
 Design and implementation of a system which varied the light intensity of LED arrays based on the sound’s frequency.
 
-{{< youtube kBOpWY_B1vM>}}
+{{< youtube MovaylNHGE8>}}

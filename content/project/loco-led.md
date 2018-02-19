@@ -30,4 +30,4 @@ image = "headers/locoledpres.jpg"
 
 Design and implementation of a system which varied the light intensity of LED arrays based on the sound’s frequency.
 
-# {{< youtube kBOpWY_B1vM>}}
+{{< youtube kBOpWY_B1vM>}}

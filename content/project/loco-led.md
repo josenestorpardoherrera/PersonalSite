@@ -13,7 +13,7 @@ image_preview = "locoledpres.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = [""]
+# tags = ["loco-led"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -29,3 +29,5 @@ math = false
 +++
 
 Design and implementation of a system which varied the light intensity of LED arrays based on the sound’s frequency.
+
+{{< youtube MovaylNHGE8>}}

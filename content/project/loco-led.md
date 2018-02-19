@@ -30,4 +30,4 @@ math = false
 
 Design and implementation of a system which varied the light intensity of LED arrays based on the sound’s frequency.
 
-{{< youtube MovaylNHGE8>}}
+# {{< youtube MovaylNHGE8>}}

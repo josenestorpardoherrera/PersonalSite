@@ -61,9 +61,9 @@ defaultContentLanguageInSubdir = false
   avatar = "Profile4.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   # email = "pardo.jose@javeriana.edu.co"
   # address = "Pontificia Universidad Javeriana. Carrera 7 # 40 - 62, Bogotá D.C., Colombia"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  # office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  # phone = "888 888 88 88"
+  # skype = "echo123"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -149,7 +149,7 @@ defaultContentLanguageInSubdir = false
   # highlight_style = "github"
 
   # Enable native social sharing buttons?
-  sharing = true
+  sharing = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)

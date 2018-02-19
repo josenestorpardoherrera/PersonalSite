@@ -35,6 +35,10 @@ filter_default = 0
 [[filter]]
   name = "Deep Learning"
   tag = ".deep-learning"
+  
+[[filter]]
+  name = "Loco Led"
+  tag = ".loco-led"
 
 [[filter]]
   name = "Other"

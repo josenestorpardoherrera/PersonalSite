@@ -3,7 +3,7 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Asynchronous Digital Calculator (AsíCalcula)"
+title = "Asynchronous Digital Calculator of the Four Basic Operations (AsíCalcula)"
 
 # Project summary to display on homepage.
 summary = ""

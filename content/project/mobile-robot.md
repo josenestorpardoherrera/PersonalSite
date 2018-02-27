@@ -28,7 +28,7 @@ math = false
 
 [[gallery_item]]
  album = "1"
- image = "mr1.png"
+ image = "mr1.jpg"
  caption = "Fig 1"
     
 [[gallery_item]]

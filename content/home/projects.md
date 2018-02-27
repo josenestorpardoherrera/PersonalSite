@@ -55,6 +55,10 @@ filter_default = 0
  [[filter]]
   name = "Mobile Robot"
   tag = ".mobile-robot"
+  
+ [[filter]]
+  name = "Omni-Directional Robots "
+  tag = ".omni-d-robots"
 
 # [[filter]]
 #  name = "Other"

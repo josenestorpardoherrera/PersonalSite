@@ -65,7 +65,11 @@ The main objetive of this project was about the design and implementation of a p
 Teammates: [JaVEX Robotics Team](https://www.facebook.com/javexrobotics/)
 
 {{< gallery album="1" >}}
+
 <span style="color:white"> *s*</span>
+
 <iframe width="720" height="480" src="https://www.youtube.com/embed/videoseries?list=PLaxonS_z-T1506DeCoT9KfH6xL2BXSTGP" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <span style="color:white"> *s*</span>
+
 {{< gallery album="2" >}}

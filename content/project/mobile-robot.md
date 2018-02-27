@@ -58,4 +58,4 @@ Teammates: Pedro Nel Acero Brochero, Juan José Martínez Moritz, Jose Libardo N
 <span style="color:white"> *s*</span>
 {{< youtube BseJws6csiA >}}
 <span style="color:white"> *s*</span>
-{{< youtube Te7H-Cpkshc&list=PLaxonS_z-T15mZx-7hZIREGbawhlMXBKK&index=2 >}}
+{{< youtube FdPKYug8eyU&list=PLaxonS_z-T15mZx-7hZIREGbawhlMXBKK >}}

@@ -37,17 +37,17 @@ math = false
  caption = "Fig 2"
 
 [[gallery_item]]
- album = "2"
+ album = "1"
  image = "rhm3.jpg"
  caption = "Fig 3"
     
 [[gallery_item]]
- album = "2"
+ album = "1"
  image = "rhm4.jpg"
  caption = "Fig 4"
 
 [[gallery_item]]
- album = "2"
+ album = "1"
  image = "rhm5.jpg"
  caption = "Fig 5"
 
@@ -60,4 +60,3 @@ The main objetive of this project was about the design and implementation of an 
 Teammate: Jose Libardo Navia Vela.
 
 {{< gallery album="1" >}}
-{{< gallery album="2" >}}

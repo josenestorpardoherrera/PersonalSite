@@ -51,6 +51,10 @@ filter_default = 0
  [[filter]]
   name = "Asynchronous Digital Calculator"
   tag = ".asynchronous-digital-calculator"
+ 
+ [[filter]]
+  name = "Mobile Robot"
+  tag = ".mobile-robot"
 
 # [[filter]]
 #  name = "Other"

@@ -39,7 +39,7 @@ math = false
 
 +++
 
-*Feb-Jun 2014*
+*(Feb-Jun 2014)*
 
 The main objetive of this project was about the design and implementation -in a FPGA- of an automatic control system of light intensity in a scale-model of a room, through the position of a blackout and the light intensity of a bulb.
 

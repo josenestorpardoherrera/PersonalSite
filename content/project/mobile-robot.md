@@ -3,7 +3,7 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Mobile Robot for Inside Environment"
+title = "Mobile Robot for Inside Environment (TurboNel DA0)"
 
 # Project summary to display on homepage.
 summary = ""

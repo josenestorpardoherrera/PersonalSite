@@ -3,17 +3,17 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Deep Learning"
+title = "Omni-Directional Robots with Parabolic Throwing"
 
 # Project summary to display on homepage.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary = ""
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "odrpres.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["deep-learning"]
+tags = ["omni-d-robots"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -23,17 +23,49 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+# image = "headers/locoledpres.jpg"
+# caption = "My caption :smile:"
+
+[[gallery_item]]
+ album = "1"
+ image = "odr1.jpg"
+ caption = "Fig 1"
+    
+[[gallery_item]]
+ album = "1"
+ image = "odr2.jpg"
+ caption = "Fig 2"
+
+[[gallery_item]]
+ album = "1"
+ image = "odr3.jpg"
+ caption = "Fig 3"
+    
+[[gallery_item]]
+ album = "2"
+ image = "odr4.jpg"
+ caption = "Fig 4"
+ 
+[[gallery_item]]
+ album = "2"
+ image = "odr5.jpg"
+ caption = "Fig 5"
+
+[[gallery_item]]
+ album = "2"
+ image = "odr6.jpg"
+ caption = "Fig 6"
 
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+*(Jul 2015 - Jun 2016)*
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+The main objetive of this project was about the design and implementation of a pair of omni-directional robots which had an incorporated system of parabolic throwing. They were developed as a solution for the 2015-2016 VEX Competition: Nothing But Net. These robots were used to compete as in the 2015 VEX Robotics Colombian National Championship as in the 2016 VEX Robotics World Championship.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+Teammates: [JaVEX Robotics Team](https://www.facebook.com/javexrobotics/)
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+{{< gallery album="1" >}}
+<span style="color:white"> *s*</span>
+<iframe width="720" height="480" src="https://www.youtube.com/embed/videoseries?list=PLaxonS_z-T1506DeCoT9KfH6xL2BXSTGP" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<span style="color:white"> *s*</span>
+{{< gallery album="2" >}}

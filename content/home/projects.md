@@ -43,6 +43,10 @@ filter_default = 0
  [[filter]]
   name = "Smart Living Room"
   tag = ".smart-living-room"
+ 
+ [[filter]]
+  name = "Relative Humidity Meter"
+  tag = ".relative-humidity-meter"
 
 # [[filter]]
 #  name = "Other"

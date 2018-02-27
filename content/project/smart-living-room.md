@@ -4,7 +4,6 @@ date = "2016-04-27"
 
 # Project title.
 title = "Smart Living Room"
-subtitle = "Feb-Jun 2014"
 
 # Project summary to display on homepage.
 summary = ""
@@ -37,13 +36,17 @@ math = false
 # image = "Profile5.jpg"
 # caption = "Fig 2"
 # {{< gallery album="1" >}} This has to be after the "+++"
+
 +++
 
-Design and implementation -in a FPGA- of an automatic control system of light intensity in a scale-model of a room, through
-the position of a blackout and the light intensity of a bulb.
+*Feb-Jun 2014*
+
+The main objetive of this project was about the design and implementation -in a FPGA- of an automatic control system of light intensity in a scale-model of a room, through the position of a blackout and the light intensity of a bulb.
 
 Teammates: Pedro Nel Acero Brochero, Jose Libardo Navia Vela.
 
 {{< youtube 70-WHkq4nuc>}}
+
 {{< youtube NnEXl6qdAHo>}}
+
 {{< youtube nqbo67CVeQ8>}}

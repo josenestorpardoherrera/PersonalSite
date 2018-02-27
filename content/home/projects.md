@@ -32,16 +32,20 @@ filter_default = 0
   name = "All"
   tag = "*"
 
- [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+# [[filter]]
+#  name = "Deep Learning"
+#  tag = ".deep-learning"
   
  [[filter]]
   name = "Loco Led"
   tag = ".loco-led"
-
+  
  [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Smart Living Room"
+  tag = ".smart-living-room"
+
+# [[filter]]
+#  name = "Other"
+#  tag = ".demo"
 
 +++

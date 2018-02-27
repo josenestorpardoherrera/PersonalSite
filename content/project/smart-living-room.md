@@ -46,7 +46,9 @@ The main objetive of this project was about the design and implementation -in a 
 Teammates: Pedro Nel Acero Brochero, Jose Libardo Navia Vela.
 
 {{< youtube 70-WHkq4nuc>}}
-
+<span style="color:white"> *s*</span>
+<span style="color:white"> *s*</span>
 {{< youtube NnEXl6qdAHo>}}
-
+<span style="color:white"> *s*</span>
+<span style="color:white"> *s*</span>
 {{< youtube nqbo67CVeQ8>}}

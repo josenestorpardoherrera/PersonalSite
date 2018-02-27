@@ -48,6 +48,10 @@ filter_default = 0
   name = "Relative Humidity Meter"
   tag = ".relative-humidity-meter"
 
+ [[filter]]
+  name = "Asynchronous Digital Calculator"
+  tag = ".asynchronous-digital-calculator"
+
 # [[filter]]
 #  name = "Other"
 #  tag = ".demo"

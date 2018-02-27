@@ -26,15 +26,15 @@ math = false
 # image = "headers/locoledpres.jpg"
 # caption = "My caption :smile:"
 
-[[gallery_item]]
-album = "1"
-image = "Profile1.jpg"
-caption = "Fig 1"
+# [[gallery_item]]
+# album = "1"
+# image = "Profile1.jpg"
+# caption = "Fig 1"
     
-[[gallery_item]]
-album = "1"
-image = "Profile5.jpg"
-caption = "Fig 2"
+# [[gallery_item]]
+# album = "1"
+# image = "Profile5.jpg"
+# caption = "Fig 2"
 
 +++
 
@@ -43,4 +43,4 @@ The main objetive of this project was about the design and implementation of a e
 Teammates: Pedro Nel Acero Brochero, Jose Libardo Navia Vela.
 
 {{< youtube MovaylNHGE8>}}
-{{< gallery album="1" >}}
+# {{< gallery album="1" >}}

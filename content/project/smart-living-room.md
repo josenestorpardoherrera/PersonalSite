@@ -47,4 +47,4 @@ Teammates: Pedro Nel Acero Brochero, Jose Libardo Navia Vela.
 
 **Videos**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLaxonS_z-T16pehpMvbZ7oPJUuczR2lIf" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="720" height="480" src="https://www.youtube.com/embed/videoseries?list=PLaxonS_z-T16pehpMvbZ7oPJUuczR2lIf" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

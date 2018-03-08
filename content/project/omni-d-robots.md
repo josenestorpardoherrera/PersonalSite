@@ -67,6 +67,7 @@ Teammates: [JaVEX Robotics Team](https://www.facebook.com/javexrobotics/)
 **Images**
 
 {{< gallery album="1" >}}
+<span style="color:white"> *s*</span>
 
 **Videos**
 

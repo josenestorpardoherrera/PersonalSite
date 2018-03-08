@@ -45,4 +45,6 @@ The main objetive of this project was about the design and implementation -in a 
 
 Teammate: Jose Libardo Navia Vela.
 
+**Video**
+
 {{< youtube saH_uqTPojc >}}

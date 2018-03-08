@@ -34,4 +34,6 @@ The main objetive of this project was about the design and implementation of a e
 
 Teammates: Pedro Nel Acero Brochero, Jose Libardo Navia Vela.
 
+**Video**
+
 {{< youtube MovaylNHGE8>}}

@@ -66,6 +66,7 @@ Teammates: [JaVEX Robotics Team](https://www.facebook.com/javexrobotics/)
 
 **Images**
 
+<!DOCTYPE html>
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -74,7 +75,7 @@ body {
   margin: 0;
 }
 
-{
+  {
   box-sizing: border-box;
 }
 
@@ -162,32 +163,32 @@ img {
 <div class="container">
   <div class="mySlides">
     <div class="numbertext">1 / 6</div>
-    <img src="odr1.jpg" style="width:100%">
+    <img src="img_woods_wide.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">2 / 6</div>
-    <img src="odr2.jpg" style="width:100%">
+    <img src="img_fjords_wide.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">3 / 6</div>
-    <img src="odr3.jpg" style="width:100%">
+    <img src="img_mountains_wide.jpg" style="width:100%">
   </div>
     
   <div class="mySlides">
     <div class="numbertext">4 / 6</div>
-    <img src="odr4.jpg" style="width:100%">
+    <img src="img_lights_wide.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">5 / 6</div>
-    <img src="odr5.jpg" style="width:100%">
+    <img src="img_nature_wide.jpg" style="width:100%">
   </div>
     
   <div class="mySlides">
     <div class="numbertext">6 / 6</div>
-    <img src="odr6.jpg" style="width:100%">
+    <img src="img_snow_wide.jpg" style="width:100%">
   </div>
     
   <a class="prev" onclick="plusSlides(-1)">❮</a>
@@ -199,22 +200,22 @@ img {
 
   <div class="row">
     <div class="column">
-      <img class="demo cursor" src="odr1.jpg" style="width:100%" onclick="currentSlide(1)" alt="The Woodsd=">
+      <img class="demo cursor" src="img_woods.jpg" style="width:100%" onclick="currentSlide(1)" alt="The Woodsd=">
     </div>
     <div class="column">
-      <img class="demo cursor" src="odr2.jpg" style="width:100%" onclick="currentSlide(2)" alt="Trolltunga, Norway">
+      <img class="demo cursor" src="img_fjords.jpg" style="width:100%" onclick="currentSlide(2)" alt="Trolltunga, Norway">
     </div>
     <div class="column">
-      <img class="demo cursor" src="odr3.jpg" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
+      <img class="demo cursor" src="img_mountains.jpg" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
     </div>
     <div class="column">
-      <img class="demo cursor" src="odr4.jpg" style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
+      <img class="demo cursor" src="img_lights.jpg" style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
     </div>
     <div class="column">
-      <img class="demo cursor" src="odr5.jpg" style="width:100%" onclick="currentSlide(5)" alt="Nature and sunrise">
+      <img class="demo cursor" src="img_nature.jpg" style="width:100%" onclick="currentSlide(5)" alt="Nature and sunrise">
     </div>    
     <div class="column">
-      <img class="demo cursor" src="odr6.jpg" style="width:100%" onclick="currentSlide(6)" alt="Snowy Mountains">
+      <img class="demo cursor" src="img_snow.jpg" style="width:100%" onclick="currentSlide(6)" alt="Snowy Mountains">
     </div>
   </div>
 </div>

@@ -45,10 +45,6 @@ The main objetive of this project was about the design and implementation -in a 
 
 Teammates: Pedro Nel Acero Brochero, Jose Libardo Navia Vela.
 
-{{< youtube 70-WHkq4nuc>}}
-<span style="color:white"> *s*</span>
-<span style="color:white"> *s*</span>
-{{< youtube NnEXl6qdAHo>}}
-<span style="color:white"> *s*</span>
-<span style="color:white"> *s*</span>
-{{< youtube nqbo67CVeQ8>}}
+**Videos**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLaxonS_z-T16pehpMvbZ7oPJUuczR2lIf" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

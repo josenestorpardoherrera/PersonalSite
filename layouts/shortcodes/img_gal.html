@@ -142,7 +142,7 @@ img {
     <p id="caption"></p>
   </div>
   
-  <!--<div class="row">
+  div class="row">
     <div class="column">
       <img class="demo cursor" src="/img/{{.Get 0}}" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
     </div>
@@ -161,7 +161,7 @@ img {
     <div class="column">
       <img class="demo cursor" src="/img/{{.Get 5}}" style="width:100%" onclick="currentSlide(6)" alt="Snowy Mountains">
     </div>
-  </div>-->
+  </div>
 </div>
 
 <script>
@@ -183,9 +183,9 @@ function showSlides(n) {
   var captionText = document.getElementById("caption");
   if (n > slides.length) {slideIndex = 1}
   if (n < 1) {slideIndex = slides.length}
-  for (i = 0; i < slides.length; i++) {
+  /*for (i = 0; i < slides.length; i++) {
       slides[i].style.display = "none";
-  }
+  }*/
   for (i = 0; i < dots.length; i++) {
       dots[i].className = dots[i].className.replace(" active", "");
   }

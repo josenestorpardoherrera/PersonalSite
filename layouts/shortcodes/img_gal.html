@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
-<!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-/* It's commented because this code isn't necessary for the image gallery
+/* It's commented because this code isn't necessary for the image gallery*/
+body {
   font-family: Arial;
-  margin: 0 250px 0 250px;
-  margin: 0;
+  margin: 0 250px 0 250px; /*I modified this*/
 }
 
 * {
@@ -15,12 +15,11 @@
 img {
   vertical-align: middle;
 }
-*/
 
 /* Position the image container (needed to position the left and right arrows) */
 .container {
   position: relative;
-  width: 90%;
+  width: 100%; /*I added this*/
 }
 
 /* Hide the images by default */
@@ -38,7 +37,7 @@ img {
 .next {
   cursor: pointer;
   position: absolute;
-  top: 35%;
+  top: 35%; /*I modified this*/
   width: auto;
   padding: 16px;
   margin-top: -50px;
@@ -52,7 +51,7 @@ img {
 
 /* Position the "next button" to the right */
 .next {
-  right: 11pt;
+  right: 11pt; /*I modified this*/
   border-radius: 3px 0 0 3px;
 }
 
@@ -68,7 +67,7 @@ img {
   font-size: 12px;
   padding: 8px 12px;
   position: absolute;
-  top: 100;
+  top: 100; /*I added this*/
 }
 
 /* Container for image text */
@@ -77,14 +76,14 @@ img {
   background-color: #222;
   padding: 1px 16px;
   color: white;
-  top: 100;
+  top: 100; /*I modified this*/
 }
 
-.row:after {
+/*.row:after {
   content: "";
   display: table;
   clear: both;
-}
+}*/
 
 /* Six columns side by side */
 .column {

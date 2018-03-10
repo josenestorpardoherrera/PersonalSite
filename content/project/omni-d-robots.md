@@ -22,39 +22,9 @@ external_link = ""
 math = false
 
 # Optional featured image (relative to `static/img/` folder).
-[header]
+# [header]
 # image = "headers/locoledpres.jpg"
 # caption = "My caption :smile:"
-
-[[gallery_item]]
- album = "1"
- image = "odr1.jpg"
- caption = "Fig 1"
-    
-[[gallery_item]]
- album = "1"
- image = "odr2.jpg"
- caption = "Fig 2"
-
-[[gallery_item]]
- album = "1"
- image = "odr3.jpg"
- caption = "Fig 3"
-    
-[[gallery_item]]
- album = "1"
- image = "odr4.jpg"
- caption = "Fig 4"
- 
-[[gallery_item]]
- album = "1"
- image = "odr5.jpg"
- caption = "Fig 5"
-
-[[gallery_item]]
- album = "1"
- image = "odr6.jpg"
- caption = "Fig 6"
 
 +++
 

@@ -64,7 +64,7 @@ The main objetive of this project was about the design and implementation of a p
 
 Teammates: [JaVEX Robotics Team](https://www.facebook.com/javexrobotics/)
 
-**Images**
+**Images (Click on an image to start slideshow)**
 
 {{<gallery album="1">}}
 

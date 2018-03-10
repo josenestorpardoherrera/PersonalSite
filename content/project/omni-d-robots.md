@@ -65,7 +65,10 @@ The main objetive of this project was about the design and implementation of a p
 Teammates: [JaVEX Robotics Team](https://www.facebook.com/javexrobotics/)
 
 **Images**
-{{<img_gal "odr1.jpg" "odr2.jpg" "odr3.jpg" "odr4.jpg" "odr5.jpg" "odr6.jpg">}}
+
+{{< figure src="/img/odr1.jpg" title="Figure Caption1" >}}
+{{< figure src="/img/odr2.jpg" title="Figure Caption2" >}}
+{{< figure src="/img/odr3.jpg" title="Figure Caption3" >}}
 
 **Videos**
 

@@ -59,6 +59,6 @@ The main objetive of this project was about the design and implementation of an 
 
 Teammate: Jose Libardo Navia Vela.
 
-**Images**
+**Images (Click on an image to start slideshow)**
 
 {{< gallery album="1" >}}

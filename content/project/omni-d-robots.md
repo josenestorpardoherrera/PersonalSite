@@ -36,7 +36,7 @@ Teammates: [JaVEX Robotics Team](https://www.facebook.com/javexrobotics/)
 
 **Images**
 
-<p><img src="/img/odr1.jpg"/><img src="/img/odr2.jpg"/><img src="/img/odr3.jpg"/></p>
+{{<img_gal "odr1.jpg" "odr2.jpg" "odr3.jpg" "odr4.jpg" "odr5.jpg" "odr6.jpg">}}
 
 **Videos**
 

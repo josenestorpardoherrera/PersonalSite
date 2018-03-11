@@ -29,37 +29,37 @@ math = false
 [[gallery_item]]
  album = "1"
  image = "mr1.jpg"
- caption = "3D Model"
+ caption = "3D Model (First perspective)"
     
 [[gallery_item]]
  album = "1"
  image = "mr2.jpg"
- caption = "3D Model"
+ caption = "3D Model (Second perspective)"
 
 [[gallery_item]]
  album = "1"
  image = "mr3.jpg"
- caption = "3D Model"
+ caption = "3D Model (Third perspective)"
     
 [[gallery_item]]
  album = "1"
  image = "mr4.jpg"
- caption = "Fig 4"
+ caption = "3D model of the mobile robot on an environment with obstacles"
  
  [[gallery_item]]
  album = "1"
  image = "mr5.jpg"
- caption = "Fig 5"
+ caption = "Mobile Robot (First perspective)"
     
 [[gallery_item]]
  album = "1"
  image = "mr6.jpg"
- caption = "Fig 6"
+ caption = "Mobile Robot (Second perspective)"
 
 [[gallery_item]]
  album = "1"
  image = "mr7.jpg"
- caption = "Fig 7"
+ caption = "Mobile Robot (Third perspective)"
 
 +++
 

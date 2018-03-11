@@ -63,9 +63,7 @@ math = false
 
 Teammates: [JaVEX Robotics Team](https://www.facebook.com/javexrobotics/)
 
-**Images**
-{{<img_gal_odr "odr1.jpg" "Omni-directional robots" "odr2.jpg" "High elevating one of the robots upon the other" "odr3.jpg" "Create Award won at the 2016 VEX Robotics Worlds" "odr4.jpg" "Team, Robots and Create Award" "odr5.jpg" "Some members of JaVEX Robotics Team" "odr6.jpg" "Competing at the 2016 VEX Robotics Worlds">}}
-**Videos**
+**Images**{{<img_gal_odr "odr1.jpg" "Omni-directional robots" "odr2.jpg" "High elevating one of the robots upon the other" "odr3.jpg" "Create Award won at the 2016 VEX Robotics Worlds" "odr4.jpg" "Team, Robots and Create Award" "odr5.jpg" "Some members of JaVEX Robotics Team" "odr6.jpg" "Competing at the 2016 VEX Robotics Worlds">}}**Videos**
 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/videoseries?list=PLaxonS_z-T1506DeCoT9KfH6xL2BXSTGP" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

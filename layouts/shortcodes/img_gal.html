@@ -107,6 +107,19 @@ img {
 .demo:hover {
   opacity: 1;
 }
+  
+figure {
+    display: block;
+    margin: 0;
+}
+
+.figcaption {
+    display: block;
+    text-align: center;
+    background-color: #222;
+    color: white;
+    padding: 8px 16px;
+} 
 </style>
 <!--<body>
 
@@ -115,12 +128,18 @@ img {
 <div class="container">
   <div class="mySlides">
     <div class="numbertext">1 / 6</div>
-    <img src="/img/{{.Get 0}}" style="width:100%">
+      <figure>
+        <img src="/img/{{.Get 0}}" style="width:100%">
+        <div class="figcaption">Fig.1.</div>
+      </figure>
   </div>
 
   <div class="mySlides">
     <div class="numbertext">2 / 6</div>
-    <img src="/img/{{.Get 1}}" style="width:100%">
+      <figure>
+        <img src="/img/{{.Get 1}}" style="width:100%">
+        <div class="figcaption">Fig.2.</div>
+      </figure>
   </div>
 
   <div class="mySlides">

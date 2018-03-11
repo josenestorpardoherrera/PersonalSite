@@ -68,4 +68,4 @@ Teammates: [JaVEX Robotics Team](https://www.facebook.com/javexrobotics/)
 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/videoseries?list=PLaxonS_z-T1506DeCoT9KfH6xL2BXSTGP" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-For more information:[VEX Robotics](https://www.vexrobotics.com), [REC Foundation](http://www.roboticseducation.org). 
+For more information: [VEX Robotics](https://www.vexrobotics.com/), [REC Foundation](https://www.roboticseducation.org/), [2015-2016 VEX Competition: Nothing But Net](https://www.roboticseducation.org/competition-teams/competition-history/vrc-nothing-but-net/).

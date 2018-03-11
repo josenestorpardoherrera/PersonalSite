@@ -29,22 +29,37 @@ math = false
 [[gallery_item]]
  album = "1"
  image = "mr1.jpg"
- caption = "Fig 1"
+ caption = "3D Model"
     
 [[gallery_item]]
  album = "1"
  image = "mr2.jpg"
- caption = "Fig 2"
+ caption = "3D Model"
 
 [[gallery_item]]
  album = "1"
  image = "mr3.jpg"
- caption = "Fig 3"
+ caption = "3D Model"
     
 [[gallery_item]]
  album = "1"
  image = "mr4.jpg"
  caption = "Fig 4"
+ 
+ [[gallery_item]]
+ album = "1"
+ image = "mr5.jpg"
+ caption = "Fig 5"
+    
+[[gallery_item]]
+ album = "1"
+ image = "mr6.jpg"
+ caption = "Fig 6"
+
+[[gallery_item]]
+ album = "1"
+ image = "mr7.jpg"
+ caption = "Fig 7"
 
 +++
 

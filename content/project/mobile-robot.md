@@ -62,18 +62,13 @@ math = false
  caption = "Mobile Robot (Third perspective)"
 
 +++
-
 *(Feb-Jun 2015)*
 
 The main objetive of this project was about the design, modeling, simulation, fabrication and control of a mobile robot for exploring inside environment.
 
 Teammates: Pedro Nel Acero Brochero, Juan José Martínez Moritz, Jose Libardo Navia Vela
 
-**Images (Click on an image to start slideshow)**
-
-{{< gallery album="1" >}}
-<span style="color:white"> *s*</span>
-
+**Images**{{<img_gal_mr "mr1.jpg" "3D Model (First perspective)" "mr2.jpg" "3D Model (Second perspective)" "mr3.jpg" "3D Model (Third perspective)" "mr4.jpg" "3D model of the mobile robot on an environment with obstacles" "mr5.jpg" "Mobile Robot (First perspective)" "mr6.jpg" "Mobile Robot (Second perspective)" "mr7.jpg" "Mobile Robot (Third perspective)">}}
 **Video**
 
 {{< youtube BseJws6csiA >}}

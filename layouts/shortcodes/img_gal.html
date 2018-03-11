@@ -108,12 +108,12 @@ img {
   opacity: 1;
 }
   
-figure {
+figure { /* I added this*/
     display: block;
     margin: 0;
 }
 
-.figcaption {
+.figcaption { /* I added this*/
     display: block;
     text-align: center;
     background-color: #222;
@@ -144,28 +144,40 @@ figure {
 
   <div class="mySlides">
     <div class="numbertext">3 / 6</div>
-    <img src="/img/{{.Get 2}}" style="width:100%">
+      <figure>
+        <img src="/img/{{.Get 2}}" style="width:100%">
+        <div class="figcaption">Fig.3.</div>
+      </figure>
   </div>
 
   <div class="mySlides">
     <div class="numbertext">4 / 6</div>
-    <img src="/img/{{.Get 3}}" style="width:100%">
+      <figure>
+        <img src="/img/{{.Get 3}}" style="width:100%">
+        <div class="figcaption">Fig.4.</div>
+      </figure>
   </div>
 
   <div class="mySlides">
     <div class="numbertext">5 / 6</div>
-    <img src="/img/{{.Get 4}}" style="width:100%">
+      <figure>
+        <img src="/img/{{.Get 4}}" style="width:100%">
+        <div class="figcaption">Fig.5.</div>
+      </figure>
   </div>
 
   <div class="mySlides">
     <div class="numbertext">6 / 6</div>
-    <img src="/img/{{.Get 5}}" style="width:100%">
+      <figure>
+        <img src="/img/{{.Get 5}}" style="width:100%">
+        <div class="figcaption">Fig.6.</div>
+      </figure>
   </div>
 
   <a class="prev" onclick="plusSlides(-1)">❮</a>
   <a class="next" onclick="plusSlides(1)">❯</a>
 
-  <div class="caption-container">
+  <!--<div class="caption-container">
     <p id="caption"></p>
   </div>
 
@@ -188,7 +200,7 @@ figure {
     <div class="column">
       <img class="demo cursor" src="/img/{{.Get 5}}" style="width:100%" onclick="currentSlide(6)" alt="Snowy Mountains">
     </div>
-  </div>
+  </div>-->
 </div>
 
 <script>
@@ -206,19 +218,19 @@ function currentSlide(n) {
 function showSlides(n) {
   var i;
   var slides = document.getElementsByClassName("mySlides");
-  var dots = document.getElementsByClassName("demo");
-  var captionText = document.getElementById("caption");
+  /*var dots = document.getElementsByClassName("demo");
+  var captionText = document.getElementById("caption");*/
   if (n > slides.length) {slideIndex = 1}
   if (n < 1) {slideIndex = slides.length}
   for (i = 0; i < slides.length; i++) {
       slides[i].style.display = "none";
   }
-  for (i = 0; i < dots.length; i++) {
+  /*for (i = 0; i < dots.length; i++) {
       dots[i].className = dots[i].className.replace(" active", "");
-  }
+  }*/
   slides[slideIndex-1].style.display = "block";
-  dots[slideIndex-1].className += " active";
-  captionText.innerHTML = dots[slideIndex-1].alt;
+  /*dots[slideIndex-1].className += " active";
+  captionText.innerHTML = dots[slideIndex-1].alt;*/
 }
 </script>
 

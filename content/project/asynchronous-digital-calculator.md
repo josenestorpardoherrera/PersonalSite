@@ -38,9 +38,10 @@ math = false
 # {{< gallery album="1" >}} This has to be after the "+++"
 
 +++
+
 *(Apr-Jun 2015)*
 
-<p align="justify">The main objetive of this project was about the design and implementation -in a FPGA- of an asynchronous system which executed the basic arithmetic operations such as addition, substraction, multiplication and division between a pair of one digit numbers.</p>
+The main objetive of this project was about the design and implementation -in a FPGA- of an asynchronous system which executed the basic arithmetic operations such as addition, substraction, multiplication and division between a pair of one digit numbers.
 
 Teammate: Jose Libardo Navia Vela.
 

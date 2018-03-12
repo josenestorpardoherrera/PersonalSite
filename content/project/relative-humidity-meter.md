@@ -54,7 +54,7 @@ math = false
 +++
 *(Feb-Jun 2014)*
 
-<p align="justify">The main objetive of this project was about the design and implementation of an electronic portable meter of relative humidity.</p>
+<p align="justify">The main objective of this project was about the design and implementation of an electronic portable meter of relative humidity.</p>
 
 Teammate: Jose Libardo Navia Vela.
 

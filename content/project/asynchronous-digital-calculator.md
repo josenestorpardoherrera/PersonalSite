@@ -41,9 +41,9 @@ math = false
 
 *(Apr-Jun 2015)*
 
-<p align="justify">The main objective of this project was about the design and implementation -in a FPGA- of an asynchronous system which executed the basic arithmetic operations such as addition, substraction, multiplication and division between a pair of one digit numbers.</p>
+<p align="justify">The main objective of this project was about the design and implementation -in a FPGA- of an asynchronous system which executed the basic arithmetic operations such as addition, substraction, multiplication and division between a pair of one-digit numbers.</p>
 
-Teammate: Jose Libardo Navia Vela.
+<p><u>Teammate:</u> Jose Libardo Navia Vela.
 
 **Video**
 

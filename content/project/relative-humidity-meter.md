@@ -58,4 +58,4 @@ math = false
 
 Teammate: Jose Libardo Navia Vela.
 
-
+**Images**{{<img_gal_rhm "rhm1.jpg" "Fig1" "rhm2.jpg" "Fig2" rhm3.jpg" "Fig3" "rhm4.jpg" "Fig4" "rhm5.jpg" "Fig5">}}

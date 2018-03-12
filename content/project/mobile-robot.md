@@ -64,7 +64,7 @@ math = false
 +++
 *(Feb-Jun 2015)*
 
-<p align="justify">The main objetive of this project was about the design, modeling, simulation, fabrication and control of a mobile robot for exploring inside environment.</p>
+<p align="justify">The main objective of this project was about the design, modeling, simulation, fabrication and control of a mobile robot for exploring inside environment.</p>
 
 Teammates: Pedro Nel Acero Brochero, Juan José Martínez Moritz, Jose Libardo Navia Vela
 

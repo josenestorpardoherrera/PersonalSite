@@ -40,7 +40,7 @@ math = false
 +++
 *(Feb-Jun 2014)*
 
-<p align="justify">The main objetive of this project was about the design and implementation -in a FPGA- of an automatic control system of light intensity in a scale-model of a room, through the position of a blackout and the light intensity of a bulb.</p>
+<p align="justify">The main objective of this project was about the design and implementation -in a FPGA- of an automatic control system of light intensity in a scale-model of a room, through the position of a blackout and the light intensity of a bulb.</p>
 
 Teammates: Pedro Nel Acero Brochero, Jose Libardo Navia Vela.
 

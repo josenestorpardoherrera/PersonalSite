@@ -35,14 +35,10 @@ weight = 5
 
 # About me
 
-In addition, I am hugely interested in developing projects which involve mainly the design and implementation of electronic devices, circuits and systems, specifically related to robotics, artificial intelligence and augmented reality.
+<p align="justify">I am a passionate Colombian youth who graduated from <a href="http://www.javeriana.edu.co/" target="_blank">Pontificia Universidad Javeriana</a> with B.S in Electronics Engineering on 2017.</p>
 
-In addition, I am hugely interested in developing projects which involve mainly the design and implementation of electronic devices, circuits and systems, specifically related to robotics, artificial intelligence and augmented reality.
+<p align="justify">In addition, I am hugely interested in developing projects which involve mainly the design and implementation of electronic devices, circuits and systems, specifically related to robotics, artificial intelligence and augmented reality.</p>
 
-<p align="justify">I am a passionate Colombian youth who graduated from <a href="http://www.javeriana.edu.co/" target="_blank">Pontificia Universidad Javeriana</a> with B.S in Electronics Engineering on 2017.<br><br>
+<p align="justify">During my undergraduate studies, I was a teaching assistant, and participated on robotics competitions and championships with <a href="https://www.facebook.com/javexrobotics/" target="_blank">JaVEX Robotics</a>. I have interned and worked at <a href="https://www.mavicontrol.com/" target="_blank">Mavicontrol Ltda</a>.</p>
 
-In addition, I am hugely interested in developing projects which involve mainly the design and implementation of electronic devices, circuits and systems, specifically related to robotics, artificial intelligence and augmented reality.<br><br>
-
-During my undergraduate studies, I was a teaching assistant, and participated on robotics competitions and championships with <a href="https://www.facebook.com/javexrobotics/" target="_blank">JaVEX Robotics</a>. I have interned and worked at <a href="https://www.mavicontrol.com/" target="_blank">Mavicontrol Ltda</a>.<br><br>
-
-Finally, I am focused and committed to apply the engineering for the purpose of helping solve social and environmental problems, and at the same time collaborate to keep electronics in constant growing so as to contribute to science and engineering.</p>
+<p align="justify">Finally, I am focused and committed to apply the engineering for the purpose of helping solve social and environmental problems, and at the same time collaborate to keep electronics in constant growing so as to contribute to science and engineering.</p>

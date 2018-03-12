@@ -34,7 +34,7 @@ weight = 5
 +++
 
 # About me
-
+<span style="color:white">s</span>
 <p align="justify">I am a passionate Colombian youth who graduated from <a href="http://www.javeriana.edu.co/" target="_blank">Pontificia Universidad Javeriana</a> with B.S in Electronics Engineering on 2017.</p>
 
 <p align="justify">In addition, I am hugely interested in developing projects which involve mainly the design and implementation of electronic devices, circuits and systems, specifically related to robotics, artificial intelligence and augmented reality.</p>

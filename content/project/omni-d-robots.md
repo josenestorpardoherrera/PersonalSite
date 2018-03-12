@@ -59,7 +59,7 @@ math = false
 +++
 *(Jul 2015 - Jun 2016)*
 
-<p align="justify">The main objetive of this project was about the design and implementation of a pair of omni-directional robots which had an incorporated system of parabolic throwing. They were developed as a solution for the <a href="https://www.youtube.com/watch?v=A8daR6qBw3M" target="_blank">2015-2016 VEX Competition: Nothing But Net</a>. These robots were used to compete as in the 2015 VEX Robotics Colombian National Championship as in the 2016 VEX Robotics World Championship.</p>
+<p align="justify">The main objective of this project was about the design and implementation of a pair of omni-directional robots which had an incorporated system of parabolic throwing. They were developed as a solution for the <a href="https://www.youtube.com/watch?v=A8daR6qBw3M" target="_blank">2015-2016 VEX Competition: Nothing But Net</a>. These robots were used to compete as in the 2015 VEX Robotics Colombian National Championship as in the 2016 VEX Robotics World Championship.</p>
 
 Teammates: [JaVEX Robotics Team](https://www.facebook.com/javexrobotics/)
 

@@ -34,7 +34,8 @@ weight = 5
 +++
 
 # About me
-
+<span style="color:white"> *s*</span>
+<span style="color:white"> *s*</span>
 
 <p align="justify">I am a passionate Colombian youth who graduated from <a href="http://www.javeriana.edu.co/" target="_blank">Pontificia Universidad Javeriana</a> with B.S in Electronics Engineering on 2017.<br><br>
 

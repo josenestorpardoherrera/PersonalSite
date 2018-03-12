@@ -31,7 +31,7 @@ math = false
 
 <p align="justify">The main objective of this project was about the design and implementation of an electronic system which was able to vary the light intensity of LED arrays based on the sound’s frequency.</p>
 
-Teammates: Pedro Nel Acero Brochero, Jose Libardo Navia Vela.
+<p><u>Teammates:</u> Pedro Nel Acero Brochero, Jose Libardo Navia Vela.</p>
 
 **Video**
 

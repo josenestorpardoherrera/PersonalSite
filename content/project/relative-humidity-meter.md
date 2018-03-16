@@ -58,4 +58,4 @@ math = false
 
 <p><u>Teammate:</u> Jose Libardo Navia Vela.</p>
 
-**Images**{{<img_gal_rhm "rhm1.png" "Fig1" "rhm2.jpg" "Fig2" "rhm3.jpg" "Fig3" "rhm4.jpg" "Fig4" "rhm5.jpg" "Fig5">}}
+**Images**{{<img_gal_rhm "rhm1.png" "Parts of the relative humidity meter" "rhm2.jpg" "Tests" "rhm4.jpg" "Relative humidity meter inside (First perspective)" "rhm5.jpg" "Relative humidity meter inside (Second perspective)">}}

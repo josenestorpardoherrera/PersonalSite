@@ -57,12 +57,12 @@ filter_default = 0
   tag = ".mobile-robot"
   
  [[filter]]
-  name = "Omni-Directional Robots"
-  tag = ".omni-d-robots"
-
- [[filter]]
   name = "Feedback State Control"
   tag = ".feedback-state-control"
+  
+ [[filter]]
+  name = "Omni-Directional Robots"
+  tag = ".omni-d-robots"
   
 # [[filter]]
 #  name = "Other"

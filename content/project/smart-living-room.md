@@ -38,7 +38,7 @@ math = false
 # {{< gallery album="1" >}} This has to be after the "+++"
 
 +++
-*(Feb-Jun 2014)*
+*(Feb - Jun 2014)*
 
 <p align="justify">The main objective of this project was about designing and implementing -in a FPGA- an automatic control system of light intensity in a scale-model of a room, by controlling the position of a blackout and light intensity of a bulb depending on the user's needs and natural light which entered the room.</p>
 

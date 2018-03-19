@@ -39,7 +39,7 @@ math = false
 
 +++
 
-*(Apr-Jun 2015)*
+*(Apr - Jun 2015)*
 
 <p align="justify">The main objective of this project was about designing and implementing -in a FPGA- an asynchronous system which executed the basic arithmetic operations such as addition, substraction, multiplication and division between a pair of one-digit numbers.</p>
 

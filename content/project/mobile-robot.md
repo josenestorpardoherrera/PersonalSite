@@ -62,7 +62,7 @@ math = false
  caption = "Mobile Robot (Third perspective)"
 
 +++
-*(Feb-Jun 2015)*
+*(Feb - Jun 2015)*
 
 <p align="justify">The main objective of this project was about the design, modeling, simulation, fabrication and control of a mobile robot for exploring inside environment.</p>
 

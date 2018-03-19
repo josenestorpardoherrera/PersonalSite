@@ -29,6 +29,6 @@ math = false
 +++
 *(Feb - Dec 2015)*
 
-<p align="justify">The main objective of this project was about designing, implementing and simulating - in Simulink-Matlab - a control system by feedback state law for a spark ignition engine MIMO model, provided by Toyota Motor Corporation for the <a href="/img/ecc15_student_competition.pdf" target="_blank">student competition at European Control Conference 2015 (ECC 2015)</a>. In fact, this project was my undergraduate thesis.</p>
+<p align="justify">The main objective of this project was about designing, implementing and simulating (in Simulink-Matlab) a control system by feedback state law for a spark ignition engine MIMO model, provided by Toyota Motor Corporation for the <a href="/img/ecc15_student_competition.pdf" target="_blank">student competition at European Control Conference 2015 (ECC 2015)</a>. In fact, this project was my undergraduate thesis.</p>
 
 <p><u>Teammate:</u> Pedro Nel Acero Brochero.</p>

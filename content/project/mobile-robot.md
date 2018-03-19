@@ -70,4 +70,5 @@ math = false
 
 **Images**{{<img_gal_mr "mr1.jpg" "3D Model (First perspective)" "mr2.jpg" "3D Model (Second perspective)" "mr3.jpg" "3D Model (Third perspective)" "mr4.jpg" "3D model of the mobile robot on an environment with obstacles" "mr5.jpg" "Mobile Robot (First perspective)" "mr6.jpg" "Mobile Robot (Second perspective)" "mr7.jpg" "Mobile Robot (Third perspective)">}}**Video**
 
+This video shows the operation of this project.
 {{< youtube BseJws6csiA >}}

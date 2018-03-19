@@ -52,7 +52,7 @@ math = false
  caption = "Fig 5"
 
 +++
-*(Feb-Jun 2014)*
+*(Feb - Jun 2014)*
 
 <p align="justify">The main objective of this project was about designing and implementing an electronic portable meter of relative humidity.</p>
 

@@ -72,4 +72,4 @@ The next videos show the participation and competition of JaVEX Robotics Team (P
 
 For more information: [VEX Robotics](https://www.vexrobotics.com/), [REC Foundation](https://www.roboticseducation.org/), [2015-2016 VEX Competition](https://www.roboticseducation.org/competition-teams/competition-history/vrc-nothing-but-net/)
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/qNOIN9JXVx4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/qNOIN9JXVx4&hl=es&cc_lang_pref=es&cc_load_policy=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

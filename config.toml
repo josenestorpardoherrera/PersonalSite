@@ -223,6 +223,11 @@ defaultContentLanguageInSubdir = false
     icon = "linkedin"
     icon_pack = "fa"
     link = "//www.linkedin.com/in/jose-nestor-pardo-herrera"
+    
+   [[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:josenestor.pardo@mail.polimi.it"
 
   # [[params.social]]
     # icon = "google-scholar"

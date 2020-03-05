@@ -40,7 +40,7 @@ weight = 5
 
 # About me
 
-<p align="justify">I am a Colombian youth who is a 1<sup>st</sup> year student of MSc in Electronics Engineering at the <a href="https://www.polimi.it/" target="_blank">Politecnico di Milano</a>. On 2017, I graduated from the <a href="http://www.javeriana.edu.co/" target="_blank">Pontificia Universidad Javeriana</a> with B.S in Electronics Engineering.</p>
+<p align="justify">I am a Colombian youth who is a 2<sup>nd</sup> year student of MSc in Electronics Engineering at the <a href="https://www.polimi.it/" target="_blank">Politecnico di Milano</a>. On 2017, I graduated from the <a href="http://www.javeriana.edu.co/" target="_blank">Pontificia Universidad Javeriana</a> with B.S in Electronics Engineering.</p>
 
 <p align="justify">As an engineer, I am focused to apply my knowledge, experience and skills for the purpose of helping solve social and environmental problems. In addition, I am committed to collaborate to keep electronics in constant growing so as to contribute to science and engineering.</p>
 

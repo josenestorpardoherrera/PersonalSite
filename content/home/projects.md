@@ -64,6 +64,10 @@ filter_default = 0
   name = "Omni-Directional Robots"
   tag = ".omni-d-robots"
   
+  [[filter]]
+  name = "Testing-setup board"
+  tag = ".testing-setup-board"
+  
 # [[filter]]
 #  name = "Other"
 #  tag = ".demo"

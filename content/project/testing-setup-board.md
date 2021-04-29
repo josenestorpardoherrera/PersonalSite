@@ -46,5 +46,5 @@ math = false
 
 **Video**
 
-This video shows an general overview of this project.
+This video shows a general overview of this project.
 {{< youtube 6NIOfg20Uvg >}}

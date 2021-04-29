@@ -3,7 +3,7 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Feedback State Control for a Toyota Engine"
+title = "State-feedback Control for a Toyota engine"
 
 # Project summary to display on homepage.
 summary = ""
@@ -13,7 +13,7 @@ image_preview = "fscpres.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["feedback-state-control"]
+tags = ["state-feedback-control"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

@@ -40,10 +40,10 @@ weight = 5
 
 # About me
 
-<p align="justify">I am a Colombian youth who is a senior year student of MSc in Electronics Engineering at the <a href="https://www.polimi.it/" target="_blank">Politecnico di Milano</a>. On 2017, I graduated from the <a href="http://www.javeriana.edu.co/" target="_blank">Pontificia Universidad Javeriana</a> with B.S in Electronics Engineering.</p>
+<p align="justify">I am a Colombian youth who just got graduated from the Master's degree in Electronics Engineering at the <a href="https://www.polimi.it/" target="_blank">Politecnico di Milano</a>. On 2017, I graduated from the <a href="http://www.javeriana.edu.co/" target="_blank">Pontificia Universidad Javeriana</a> with B.S in Electronics Engineering.</p>
 
 <p align="justify">As an engineer, I am focused to apply my knowledge, experience and skills for the purpose of helping solve social and environmental problems. In addition, I am committed to collaborate to keep electronics in constant growing so as to contribute to science and engineering.</p>
 
 <p align="justify">During my undergraduate studies, I was a teaching assistant, and participated on robotics competitions and championships with <a href="https://www.facebook.com/javexrobotics/" target="_blank">JaVEX Robotics</a>. Besides, I was an intern and full-time employee at <a href="https://www.mavicontrol.com/" target="_blank">Mavicontrol Ltda</a> in Colombia.</p>
 
-<p align="justify">Currently, I am interested in developing projects which involve the design and implementation of electronic devices, circuits and systems, specifically related to robotics, artificial intelligence and augmented reality.</p>
+<p align="justify">Currently, I am interested in developing projects which involve the design and implementation of electronic devices, circuits and systems, specifically related to VR/AR, robotics and artificial intelligence.</p>

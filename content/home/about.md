@@ -40,7 +40,7 @@ weight = 5
 
 # About me
 
-<p align="justify">I am a Colombian youth who is currently working as <i>Hardware and Firmware Designer</i> at <a href="https://lnx.seletech.com/index.php/en/" target="_blank">Seletech Engineering Srl</a>, an Italian company which completely develops products for the Aerospace and Defense sector.
+<p align="justify">I am a Colombian youth who is currently working as <i>Hardware Designer</i> at <a href="https://lnx.seletech.com/index.php/en/" target="_blank">Seletech Engineering Srl</a>, an Italian company which completely develops products for the Aerospace and Defense sector.
 
 <p align="justify">As an engineer, I am focused to apply my knowledge, experience and skills for the purpose of helping solve social and environmental problems. In addition, I am committed to collaborate to keep electronics in constant growing so as to contribute to science and engineering.</p>
 

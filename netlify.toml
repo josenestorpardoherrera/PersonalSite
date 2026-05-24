@@ -3,7 +3,8 @@
   command = "hugo"
 
 [context.production.environment]
-  HUGO_VERSION = "0.31.2"
+  #HUGO_VERSION = "0.30.2"
+  HUGO_VERSION = "0.30.2"
   #HUGO_VERSION = "0.159.2"
-  HUGO_ENV = "production"
+  #HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
